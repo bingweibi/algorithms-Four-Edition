@@ -6,13 +6,13 @@ public class ResizingArrayStack<Item> implements Iterable<Item>{
 
 
     //这是一个模拟栈（后进先出）的小程序
-    //实现非空、栈的大小、自动扩充容量、push、pop、迭代的功能
+    //实现判断非空、栈的大小、自动扩充容量、push、pop、迭代的功能
 
     private Item[] a = (Item[]) new Object[1];//栈元素
 
     private int N = 1;//表示栈的容量
 
-    private Boolean isEmpty(){
+    public Boolean isEmpty(){
         return N == 0;
     }
 
