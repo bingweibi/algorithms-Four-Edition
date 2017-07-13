@@ -34,6 +34,8 @@ public class Stack<Item> implements Iterable<Item> {
         //删除
         Item item = first.item;
         first = first.next;
+        if (isEmpty())
+            first = null;
         length--;
         return item;
     }
