@@ -26,9 +26,12 @@
       <file leaf-file-name="Queue.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
-              <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="480">
+              <caret line="72" column="5" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
+              <folding>
+                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#1139#1140#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -530,12 +533,12 @@
       <option name="presentableId" value="Default" />
       <updated>1499946490143</updated>
       <workItem from="1499946492018" duration="577000" />
-      <workItem from="1499947149407" duration="97000" />
+      <workItem from="1499947149407" duration="998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="674000" />
+    <option name="totallyTimeSpent" value="1575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="0" width="1382" height="744" extended-state="6" />
@@ -581,6 +584,10 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -594,7 +601,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="805">
           <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-          <folding />
+          <folding>
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -608,9 +618,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="480">
+          <caret line="72" column="5" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
+          <folding>
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
