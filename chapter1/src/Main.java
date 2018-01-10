@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- *二分法的实现
+ * 二分法的实现
  * @author bibingwei
  **/
 public class Main {
@@ -9,7 +9,8 @@ public class Main {
     public static void main(String[] args) {
         //假设排序10个以内的数组
         int[] array = new int[10];
-        int input,key;
+        int key;
+        System.out.println("请输入10个有序的数字，用enter键分隔");
         for (int i=0;i<10;i++){
             array[i] = Integer.parseInt(new Scanner(System.in).nextLine());
         }
@@ -34,6 +35,5 @@ public class Main {
             }
         }
         return -1;
-
     }
 }
