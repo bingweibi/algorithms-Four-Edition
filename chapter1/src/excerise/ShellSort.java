@@ -32,7 +32,7 @@ public class ShellSort {
         }
 
         for (int m=0;m<numList.length;m++){
-            System.out.print(numList[m] + " ");
+            System.out.print(numList[m] + "  ");
         }
     }
 }
